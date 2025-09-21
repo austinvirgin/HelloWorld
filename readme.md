@@ -1,6 +1,6 @@
 # Project Title (Update)
 
-Add a description of your project here.
+This is a Hello World initial program.
 
 
 ## Instructions for Build and Use
